@@ -1,1 +1,1 @@
-https://tenor.com/view/tawa-gif-12592035089535050267
+![lol](https://raw.githubusercontent.com/TawnyE/repository/main/path/to/gif.gif)
