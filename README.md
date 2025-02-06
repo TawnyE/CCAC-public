@@ -1,1 +1,1 @@
-![lol](https://raw.githubusercontent.com/TawnyE/repository/main/path/to/gif.gif)
+![lol](https://raw.githubusercontent.com/TawnyE/CCAC-public/main/IMG_1595.jpeg)
